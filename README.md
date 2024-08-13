@@ -36,7 +36,7 @@ Download files and open in vscode.
   N/A
   
   ## Tests
-  N/A
+  [Video](https://bootcampspot.instructuremedia.com/embed/bf903701-cb92-49ba-b54c-f95ebbe67931)
   
   ## Questions
   
